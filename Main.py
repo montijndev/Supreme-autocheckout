@@ -5,7 +5,7 @@ import time
 
 
 def order(k):
-    driver = webdriver.Chrome(executable_path=r'/Users/montijnvandenbeukel/Desktop/PycharmProjects/Pythoncourse/venv/chromedriver')
+    driver = webdriver.Chrome(executable_path=r'/Users/username/Desktop/path/to/the/chromedriver')
     driver.get(k['product_url'])
     driver.find_element_by_link_text(k["product_title"]).click()
     time.sleep(0.5)
