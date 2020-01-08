@@ -13,5 +13,11 @@ Download: https://chromedriver.chromium.org/downloads
 
 make sure that you download the right version
 
+also make sure to install selenium first by running:
+
+```
+pip install selenium
+```
+
 
 If you have any questions feel free to message me on twitter or discord
