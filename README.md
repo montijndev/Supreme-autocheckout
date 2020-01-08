@@ -12,3 +12,6 @@ This will open a chrome browser that will start the checkout.
 Download: https://chromedriver.chromium.org/downloads
 
 make sure that you download the right version
+
+
+If you have any questions feel free to message me on twitter or discord
