@@ -2,7 +2,7 @@ from selenium import webdriver
 from config1 import keys
 import time
 
-# For this script you need to install selenium webdriver, download link is in readme
+# For this script you need to install webdriver, download link is in readme
 
 def order(k):
     driver = webdriver.Chrome(executable_path=r'/Users/username/Desktop/path/to/the/chromedriver')
