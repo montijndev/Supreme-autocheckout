@@ -19,4 +19,4 @@ pip install selenium
 ```
 
 
-If you have any questions feel free to message me on twitter or discord
+If you have any questions or bugs feel free to message me on twitter or discord
